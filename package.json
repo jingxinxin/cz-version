@@ -1,6 +1,6 @@
 {
   "name": "cz-version",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Automatic calculation version for commitizen",
   "main": "index.js",
   "scripts": {
